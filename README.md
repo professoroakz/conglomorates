@@ -122,3 +122,8 @@ where \( \bigoplus \) denotes a direct sum, ensuring that different conglomerate
 ---
 
 Would you like a more specific application of this framework to one of your conglomerates (e.g., *xaoex* or *rsaxcode*)? 🚀
+
+![Screenshot 2025-03-31 at 9 51 44 am](https://github.com/user-attachments/assets/55094df7-a33c-4f99-bd02-4222aa76059c)
+![Screenshot 2025-03-31 at 9 48 16 am](https://github.com/user-attachments/assets/b521ea79-383e-44d9-84ab-8db94894fc6c)
+![Screenshot 2025-03-31 at 9 48 27 am](https://github.com/user-attachments/assets/2b75fe04-db41-419f-a7ef-90b22e2c1e29)
+
